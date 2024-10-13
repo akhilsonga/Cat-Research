@@ -32,7 +32,7 @@ def load_data(file_path):
         st.stop()
 
 # Specify the path to your CSV file
-csv_path = r'D:\Research_chat\arxiv_papers_category.csv'
+csv_path = r'.\arxiv_papers_category.csv'
 df = load_data(csv_path)
 
 # -----------------------------

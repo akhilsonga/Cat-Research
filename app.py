@@ -238,7 +238,7 @@ def truncate_description(text, max_words=200):
 # 4. Streamlit App Configuration
 # -----------------------------
 
-st.title('📚 Beautiful Card Viewer - Category Filter')
+st.title('📚 A QUICK AI RESEARCH PAPERS FROM "ARXIV"')
 
 # -----------------------------
 # 5. Custom CSS for Styling

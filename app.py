@@ -5,7 +5,7 @@ import io
 # -----------------------------
 # 0. Set Page Configuration
 # -----------------------------
-st.set_page_config(page_title="Beautiful Card Viewer - Categories", layout="wide")
+st.set_page_config(page_title="A QUICK AI RESEARCH PAPERS FROM 'ARXIV'", layout="wide")
 
 # -----------------------------
 # 1. Load Data from CSV

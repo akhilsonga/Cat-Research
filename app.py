@@ -342,8 +342,8 @@ def load_data_from_text(data):
 
 # Dictionary to hold the datasets
 data_sources = {
-    "Research Data 1": data1,
-    "Research Data 2": data2
+    "Research Day 1": data1,
+    "Research Day 2": data2
     # "Research Data 3": data3
 }
 

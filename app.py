@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 from datetime import datetime
-
+import time
 # Set Streamlit page configuration
 st.set_page_config(
     page_title="AI Research at a Glance: arXiv Paper Overviews",
